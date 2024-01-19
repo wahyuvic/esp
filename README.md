@@ -1,2 +1,3 @@
 # esp
-program esp rag rfid
+program esp tag rfid
+siapkan pycarm dan ide arduino dulu
